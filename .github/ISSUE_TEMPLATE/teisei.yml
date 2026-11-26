@@ -10,7 +10,7 @@ body:
     id: block
     attributes:
       label: 段落ID
-      description: "honbun/ の行頭にある ID（例: tanabe-shunichi-921240-0001）"
+      description: "honbun/ の行頭にある ID（例: tanabe-shunichi-921240-0067）"
     validations:
       required: true
   - type: textarea
